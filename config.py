@@ -1,6 +1,6 @@
 # Git clone EECBS repository from https://github.com/Jiaoyang-Li/EECBS/tree/main
 # Write the path to the EECBS executable in the PATH_TO_EECBS variable
-PATH_TO_EECBS = '/home/huijie/Downloads/MAPF_Repo/Heuristic/EECBS-main/eecbs'
+PATH_TO_EECBS = '~/Downloads/EECBS-main/eecbs'
 
 # Parameters for generating test set
 MAX_ITERATIONS = 1000 # Maximum number of iterations to try to generate a map with desired density
